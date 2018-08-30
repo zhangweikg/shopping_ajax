@@ -9,8 +9,6 @@
 *.iws
 out
 gen
-classes
-lib
 
 # Eclipse Project files
 .classpath
